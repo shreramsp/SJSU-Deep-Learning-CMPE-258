@@ -1,0 +1,15 @@
+.todo-header {
+  text-align: center;
+  margin-bottom: var(--spacing-xl);
+}
+
+.todo-header h1 {
+  font-size: var(--font-size-xl);
+  color: var(--text-color);
+  margin-bottom: var(--spacing-xs);
+}
+
+.todo-header p {
+  font-size: var(--font-size-sm);
+  color: var(--text-light);
+}

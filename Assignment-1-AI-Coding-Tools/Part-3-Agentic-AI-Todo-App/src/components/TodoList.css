@@ -1,0 +1,12 @@
+.todo-list {
+  margin-bottom: var(--spacing-lg);
+}
+
+.empty-state {
+  text-align: center;
+  padding: var(--spacing-xl);
+  background: white;
+  border-radius: 8px;
+  color: var(--text-light);
+  font-size: var(--font-size-md);
+}

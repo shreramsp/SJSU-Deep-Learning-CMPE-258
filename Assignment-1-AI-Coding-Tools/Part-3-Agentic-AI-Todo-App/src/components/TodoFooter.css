@@ -1,0 +1,28 @@
+.todo-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--spacing-md);
+  background: white;
+  border-radius: 8px;
+  font-size: var(--font-size-sm);
+}
+
+.todo-count {
+  color: var(--text-light);
+}
+
+.clear-completed-button {
+  padding: var(--spacing-sm) var(--spacing-md);
+  background: none;
+  border: 1px solid var(--delete-color);
+  color: var(--delete-color);
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.clear-completed-button:hover {
+  background: var(--delete-color);
+  color: white;
+}
