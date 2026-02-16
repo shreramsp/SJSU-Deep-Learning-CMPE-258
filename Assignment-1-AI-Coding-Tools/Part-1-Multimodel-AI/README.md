@@ -1,6 +1,7 @@
 # Janus-Pro Multimodal Colab
 
 **Colab Link:** https://colab.research.google.com/drive/1KCWYa1JW-thMhrX8ZOu0bscOxiCmDsCU?usp=sharing
+
 **Youtube Link:** https://youtu.be/CDBAf3xlf4s
 
 > Note: GitHub may show “Invalid notebook” / fail to render the `.ipynb`.  
