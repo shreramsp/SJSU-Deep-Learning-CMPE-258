@@ -6,7 +6,7 @@ This repository contains **all Assignment 1 artifacts**, including **code, Colab
 
 ## Video Walkthroughs (YouTube)
 
-- **Part 1 — Multimodal AI (Colab):** [Youtube Link](<PASTE_YOUTUBE_LINK_HERE>)
+- **Part 1 — Multimodal AI (Colab):** [Youtube Link](<https://www.youtube.com/watch?v=CDBAf3xlf4s>)
 - **Part 2 — Full-Stack Todo App (Agentic AI):** [Youtube Link](https://youtu.be/3WWXf1Mtdik)
 - **Part 3 — Flutter Weather App (Mobile):** [Youtube Link](https://youtu.be/3PCd9SSq0oQ)
 - **Part 4 — MNIST Classifier (Colab):** [Youtube Link](https://youtu.be/z8eE1E3qtZU)
@@ -15,14 +15,17 @@ This repository contains **all Assignment 1 artifacts**, including **code, Colab
 
 ## Part 1 — Multimodal AI Demo (Colab)
 
-**Colab:** https://colab.research.google.com/drive/1FfZj4dZ7LvjqTUXZqQ7jrEtmINw2RlSE?usp=sharing
+**Colab:** https://colab.research.google.com/drive/1KCWYa1JW-thMhrX8ZOu0bscOxiCmDsCU?usp=sharing
 
-This notebook demonstrates various multimodal AI capabilities using **free, open-source models**:
-1. **Text-to-Image Generation** using **Stable Diffusion**
-2. **Image Analysis** using **BLIP (Salesforce)**
-3. **Text Conversations** using **Mistral (via Hugging Face)**
+This notebook demonstrates multimodal AI using **Janus-Pro-1B (DeepSeek)**:
+1. **Text-to-Image Generation** (prompt → image)
+2. **Image-to-Text Understanding** (image → caption/insights)
+3. **Text-to-Text Chat** (interactive conversation)
 
-**No API keys required!** All models run locally in Colab.
+**No API keys required!** Runs directly in Colab.  
+*Note:* Since this is a **low-level 1B model** with **Colab quota/compute limits**, some generated images may look **glitchy**.
+
+**Demo video:** [YouTube Link](https://youtu.be/CDBAf3xlf4s)
 
 ---
 
