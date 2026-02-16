@@ -6,14 +6,15 @@ This repository contains **all Assignment 1 artifacts**, including **code, Colab
 
 ## Video Walkthroughs (YouTube)
 
-- **Part 1 — Multimodal AI (Colab):** <PASTE_YOUTUBE_LINK_HERE>
-- **Part 2 — Full-Stack Todo App (Agentic AI):** <PASTE_YOUTUBE_LINK_HERE>
-- **Part 3 — Flutter Weather App (Mobile):** <PASTE_YOUTUBE_LINK_HERE>
-- **Part 4 — MNIST Classifier (Colab):** <PASTE_YOUTUBE_LINK_HERE>
+- **Part 1 — Multimodal AI (Colab):** [Youtube Link](<PASTE_YOUTUBE_LINK_HERE>)
+- **Part 2 — Full-Stack Todo App (Agentic AI):** [Youtube Link](https://youtu.be/3WWXf1Mtdik)
+- **Part 3 — Flutter Weather App (Mobile):** [Youtube Link](https://youtu.be/3PCd9SSq0oQ)
+- **Part 4 — MNIST Classifier (Colab):** [Youtube Link](https://youtu.be/z8eE1E3qtZU)
 
 ---
 
 ## Part 1 — Multimodal AI Demo (Colab)
+
 **Colab:** https://colab.research.google.com/drive/1FfZj4dZ7LvjqTUXZqQ7jrEtmINw2RlSE?usp=sharing
 
 This notebook demonstrates various multimodal AI capabilities using **free, open-source models**:
@@ -34,7 +35,7 @@ Built using **Claude Code (Agentic AI Tool in VSCode)** to generate and iterate 
 - Persistent storage using browser **localStorage**
 - Component-based structure with reusable UI + custom hook
 
-**Demo video:** <PASTE_YOUTUBE_LINK_HERE>
+**Demo video:** [Youtube Link](https://youtu.be/3WWXf1Mtdik)
 
 ---
 
@@ -47,7 +48,7 @@ Built using **Claude Code (Agentic AI Tool in VSCode)** to generate a cross-plat
 - Clean gradient UI with loading + error handling
 - Runs on iOS / Android / Web / Desktop
 
-**Demo video:** <PASTE_YOUTUBE_LINK_HERE>
+**Demo video:** [Youtube Link](https://youtu.be/3PCd9SSq0oQ)
 
 ---
 
@@ -61,5 +62,4 @@ This notebook demonstrates a basic feedforward neural network for MNIST digit cl
 - **Concepts:** Fully connected layers, ReLU activation, Softmax, Backpropagation, Loss function
 - **Complete metrics and visualizations**
 
-**Walkthrough video:** <PASTE_YOUTUBE_LINK_HERE>
-
+**Walkthrough video:** [Youtube Link](https://youtu.be/z8eE1E3qtZU)
