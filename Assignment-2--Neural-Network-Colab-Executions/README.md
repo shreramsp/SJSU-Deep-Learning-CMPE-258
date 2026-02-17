@@ -24,7 +24,7 @@ Each notebook includes a corresponding walkthrough video.
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1rYXJkbL6F7UDPfoc30fXYFIyCmJc_CFg?usp=sharing)
 
 ### 5) `calculus_for_deep_learning.ipynb`
-- **Youtube Video:** [Youtube Link]()
+- **Youtube Video:** [Youtube Link](https://youtu.be/6wC_u6hyeIw)
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1XbGe7kDPb55RlGS8wz5LM5pJVjNM1cge?usp=sharing)
 
 
