@@ -55,19 +55,16 @@ Each notebook includes a corresponding walkthrough video.
 - **Youtube Video:** [Youtube Link]()
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1IjmN8STbSaNK9cvcYu1IpOBmqvoqdp2F?usp=sharing)
 
-### 13) `.ipynb`
+### 13) `keras_tensorflow_neural_networks_tutorial.ipynb` --- [Colab 3]
 - **Youtube Video:** [Youtube Link]()
-- **Colab Notebook:** [Colab Link]()
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1IMoUiqbqsLHeuwsnvhBqMJoA-UNMFZFD?usp=sharing)
 
-### 14) `.ipynb`
+### 14) `keras_tensorflow_advanced_tutorial.ipynb`
 - **Youtube Video:** [Youtube Link]()
-- **Colab Notebook:** [Colab Link]()
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1MZ-GuwEqP1whHeMp31h4_JDfk14LtxJ9?usp=sharing)
 
-### 15) `.ipynb`
+### 15) `jax_neural_networks_tutorial.ipynb` ---[Colab 4]
 - **Youtube Video:** [Youtube Link]()
-- **Colab Notebook:** [Colab Link]()
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1VpJUPIQfmgdkS3ylJnZTYQ9wC8vB5GzI?usp=sharing)
 
-### 16) `.ipynb`
-- **Youtube Video:** [Youtube Link]()
-- **Colab Notebook:** [Colab Link]()
 ---
