@@ -32,7 +32,7 @@ Each notebook includes a corresponding walkthrough video.
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1C5ZG49Zee2kJhVZpMiw9dDnTpN5pi1tt?usp=sharing)
 
 ### 7) `probability_for_deep_learning.ipynb`
-- **Youtube Video:** [Youtube Link]()
+- **Youtube Video:** [Youtube Link](https://youtu.be/jH6YL8O4jq8)
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1vJ_DQn_DU_fSQHlkLqxYmKndWBZaKDVl?usp=sharing)
 
 ### 8) `linear_algebra_for_deep_learning.ipynb`
