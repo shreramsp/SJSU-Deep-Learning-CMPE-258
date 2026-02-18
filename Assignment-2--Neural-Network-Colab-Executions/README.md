@@ -39,7 +39,7 @@ Each notebook includes a corresponding walkthrough video.
 - **Youtube Video:** [Youtube Link](https://youtu.be/GH8ZiXKDQQo)
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/14QDFDgEc-h4Z3Wdm2muXpSGajs2FNcFf?usp=sharing)
 
-### 9) `neural_networks_from_scratch.ipynb`
+### 9) `neural_networks_from_scratch.ipynb` --- [Colab 1]
 - **Youtube Video:** [Youtube Link](https://youtu.be/JskgIxhDs8s)
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1I5a3woDS-N7PvX4SsToZbMykuNrbb0ca?usp=sharing)
 
