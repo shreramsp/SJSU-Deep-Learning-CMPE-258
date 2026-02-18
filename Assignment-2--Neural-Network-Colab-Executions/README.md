@@ -44,16 +44,16 @@ Each notebook includes a corresponding walkthrough video.
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1I5a3woDS-N7PvX4SsToZbMykuNrbb0ca?usp=sharing)
 
 ### 10) `why_deep_learning_works_geometric_intuition.ipynb`
-- **Youtube Video:** [Youtube Link]()
+- **Youtube Video:** [Youtube Link](https://youtu.be/RWGRfjrDkAY)
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1AL4ybOt7uDUFccZGdvLoZiLqpV1jWqq0?usp=sharing)
 
-### 11) `.ipynb`
+### 11) `pytorch_neural_networks_tutorial.ipynb`
 - **Youtube Video:** [Youtube Link]()
-- **Colab Notebook:** [Colab Link]()
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1nfBngC2mbXqSdn_4npy-RAUX90T2TqtM?usp=sharing)
 
-### 12) `.ipynb`
+### 12) `pytorch_advanced_tutorial.ipynb`
 - **Youtube Video:** [Youtube Link]()
-- **Colab Notebook:** [Colab Link]()
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1IjmN8STbSaNK9cvcYu1IpOBmqvoqdp2F?usp=sharing)
 
 ### 13) `.ipynb`
 - **Youtube Video:** [Youtube Link]()
