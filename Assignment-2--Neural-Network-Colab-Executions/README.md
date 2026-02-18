@@ -36,7 +36,7 @@ Each notebook includes a corresponding walkthrough video.
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1vJ_DQn_DU_fSQHlkLqxYmKndWBZaKDVl?usp=sharing)
 
 ### 8) `linear_algebra_for_deep_learning.ipynb`
-- **Youtube Video:** [Youtube Link]()
+- **Youtube Video:** [Youtube Link](https://youtu.be/GH8ZiXKDQQo)
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/14QDFDgEc-h4Z3Wdm2muXpSGajs2FNcFf?usp=sharing)
 
 ### 9) `neural_networks_from_scratch.ipynb`
