@@ -47,7 +47,7 @@ Each notebook includes a corresponding walkthrough video.
 - **Youtube Video:** [Youtube Link](https://youtu.be/RWGRfjrDkAY)
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1AL4ybOt7uDUFccZGdvLoZiLqpV1jWqq0?usp=sharing)
 
-### 11) `pytorch_neural_networks_tutorial.ipynb`
+### 11) `pytorch_neural_networks_tutorial.ipynb` --- [Colab 2]
 - **Youtube Video:** [Youtube Link]()
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1nfBngC2mbXqSdn_4npy-RAUX90T2TqtM?usp=sharing)
 
