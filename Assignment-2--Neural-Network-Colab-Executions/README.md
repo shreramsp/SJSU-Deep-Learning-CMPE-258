@@ -40,12 +40,12 @@ Each notebook includes a corresponding walkthrough video.
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/14QDFDgEc-h4Z3Wdm2muXpSGajs2FNcFf?usp=sharing)
 
 ### 9) `neural_networks_from_scratch.ipynb`
-- **Youtube Video:** [Youtube Link]()
+- **Youtube Video:** [Youtube Link](https://youtu.be/JskgIxhDs8s)
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1I5a3woDS-N7PvX4SsToZbMykuNrbb0ca?usp=sharing)
 
-### 10) `.ipynb`
+### 10) `why_deep_learning_works_geometric_intuition.ipynb`
 - **Youtube Video:** [Youtube Link]()
-- **Colab Notebook:** [Colab Link]()
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1AL4ybOt7uDUFccZGdvLoZiLqpV1jWqq0?usp=sharing)
 
 ### 11) `.ipynb`
 - **Youtube Video:** [Youtube Link]()
