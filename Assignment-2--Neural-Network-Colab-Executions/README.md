@@ -48,11 +48,11 @@ Each notebook includes a corresponding walkthrough video.
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1AL4ybOt7uDUFccZGdvLoZiLqpV1jWqq0?usp=sharing)
 
 ### 11) `pytorch_neural_networks_tutorial.ipynb` --- [Colab 2]
-- **Youtube Video:** [Youtube Link]()
+- **Youtube Video:** [Youtube Link](https://youtu.be/7bBEhAjbIak)
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1nfBngC2mbXqSdn_4npy-RAUX90T2TqtM?usp=sharing)
 
 ### 12) `pytorch_advanced_tutorial.ipynb`
-- **Youtube Video:** [Youtube Link]()
+- **Youtube Video:** [Youtube Link](https://youtu.be/xakfmu3XIfU)
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1IjmN8STbSaNK9cvcYu1IpOBmqvoqdp2F?usp=sharing)
 
 ### 13) `keras_tensorflow_neural_networks_tutorial.ipynb` --- [Colab 3]
