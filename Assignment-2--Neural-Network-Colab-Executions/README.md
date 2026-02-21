@@ -64,7 +64,7 @@ Each notebook includes a corresponding walkthrough video.
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1MZ-GuwEqP1whHeMp31h4_JDfk14LtxJ9?usp=sharing)
 
 ### 15) `jax_neural_networks_tutorial.ipynb` ---[Colab 4]
-- **Youtube Video:** [Youtube Link]()
+- **Youtube Video:** [Youtube Link](https://youtu.be/45lqtbS3ZpE)
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1VpJUPIQfmgdkS3ylJnZTYQ9wC8vB5GzI?usp=sharing)
 
 ---
