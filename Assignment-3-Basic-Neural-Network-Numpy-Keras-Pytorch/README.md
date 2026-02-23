@@ -11,7 +11,7 @@ Each notebook includes a corresponding walkthrough video.
 - **Youtube Video:** [Youtube Link]()
 - **Colab Notebook:** [Colab Link]()
 
-### 2) `.ipynb`
+### 2) `Colab_B_Neural_Network_FromScratch_PyTorch_NoBuiltinLayers.ipynb`
 - **Youtube Video:** [Youtube Link]()
 - **Colab Notebook:** [Colab Link]()
 
