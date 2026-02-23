@@ -9,11 +9,11 @@ Each notebook includes a corresponding walkthrough video.
 
 ### 1) `Colab_A_Neural_Network_FromScratch_Numpy.ipynb`
 - **Youtube Video:** [Youtube Link]()
-- **Colab Notebook:** [Colab Link]()
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1ZyLDvqfRT6keSZVZoC53c8Ejswah5TSB?usp=sharing)
 
 ### 2) `Colab_B_Neural_Network_FromScratch_PyTorch_NoBuiltinLayers.ipynb`
 - **Youtube Video:** [Youtube Link]()
-- **Colab Notebook:** [Colab Link]()
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1SovF5UIcIxim57jcxLpzbkaS6mdXsNNX?usp=sharing)
 
 ### 3) `.ipynb`
 - **Youtube Video:** [Youtube Link]()
