@@ -35,6 +35,6 @@ Each notebook includes a corresponding walkthrough video.
 - **Youtube Video:** [Youtube Link]()
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1kY3MPZwyRRMB3nV1kjpjxT0-HfuU9oMt?usp=sharing)
 
-### 8) `.ipynb`
+### 8) `Colab_E4_Neural_Network_TensorFlow_HighLevelAPI.ipynb`
 - **Youtube Video:** [Youtube Link]()
-- **Colab Notebook:** [Colab Link]()
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1mfUB72VPQ_CUVVmjhmoR9eWUVDhXn4W2?usp=sharing)
