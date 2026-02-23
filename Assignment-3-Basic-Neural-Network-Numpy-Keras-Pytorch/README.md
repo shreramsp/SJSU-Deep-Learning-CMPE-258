@@ -19,9 +19,9 @@ Each notebook includes a corresponding walkthrough video.
 - **Youtube Video:** [Youtube Link]()
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1Vv7k3UnCjg3E1y5KoDQiNBNoX9etZwEu?usp=sharing)
 
-### 4) `.ipynb`
+### 4) `Colab_D_Neural_Network_PyTorch_Lightning.ipynb`
 - **Youtube Video:** [Youtube Link]()
-- **Colab Notebook:** [Colab Link]()
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1wrGsEzg0Zx3mEtAgha02BpK3PG3P725a?usp=sharing)
 
 ### 5) `.ipynb`
 - **Youtube Video:** [Youtube Link]()
