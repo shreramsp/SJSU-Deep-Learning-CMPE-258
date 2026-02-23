@@ -23,6 +23,18 @@ Each notebook includes a corresponding walkthrough video.
 - **Youtube Video:** [Youtube Link]()
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1wrGsEzg0Zx3mEtAgha02BpK3PG3P725a?usp=sharing)
 
-### 5) `.ipynb`
+### 5) `Colab_E1_Neural_Network_FromScratch_TensorFlow_LowLevel.ipynb`
+- **Youtube Video:** [Youtube Link]()
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1SwTEXXtg8eq3oKrJ73LCbRAI3ZUkebGe?usp=sharing)
+
+### 6) `.ipynb`
+- **Youtube Video:** [Youtube Link]()
+- **Colab Notebook:** [Colab Link]()
+
+### 7) `.ipynb`
+- **Youtube Video:** [Youtube Link]()
+- **Colab Notebook:** [Colab Link]()
+
+### 8) `.ipynb`
 - **Youtube Video:** [Youtube Link]()
 - **Colab Notebook:** [Colab Link]()
