@@ -16,11 +16,11 @@ Each notebook includes a corresponding walkthrough video.
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1SovF5UIcIxim57jcxLpzbkaS6mdXsNNX?usp=sharing)
 
 ### 3) `Colab_C_Neural_Network_PyTorch_Classes_BuiltinModules.ipynb`
-- **Youtube Video:** [Youtube Link]()
+- **Youtube Video:** [Youtube Link](https://youtu.be/5TifEANKGzk)
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1Vv7k3UnCjg3E1y5KoDQiNBNoX9etZwEu?usp=sharing)
 
 ### 4) `Colab_D_Neural_Network_PyTorch_Lightning.ipynb`
-- **Youtube Video:** [Youtube Link]()
+- **Youtube Video:** [Youtube Link](https://youtu.be/c5xdFSnBKnA)
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1wrGsEzg0Zx3mEtAgha02BpK3PG3P725a?usp=sharing)
 
 ### 5) `Colab_E1_Neural_Network_FromScratch_TensorFlow_LowLevel.ipynb`
