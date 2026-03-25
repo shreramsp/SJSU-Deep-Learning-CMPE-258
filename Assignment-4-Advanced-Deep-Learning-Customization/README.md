@@ -1,1 +1,79 @@
+# CMPE 258 — Assignment 4: Advanced Customization in Deep Learning and Neural Networks
+
+This repository contains Google Colab notebooks for **CMPE 258 — Assignment 4**.  
+Each notebook includes a corresponding walkthrough video.
+
+---
+
+## Notebooks
+
+### 1) `01_Regularization_Techniques_TF_PyTorch.ipynb`
+- **Youtube Video:** [Youtube Link]()
+- **Colab Notebook:** [Colab Link]()
+- **Coverage:** L1/L2 Regularization, Dropout, Early Stopping, Monte Carlo Dropout (Part 1a-d)
+
+### 2) `02_Initialization_BatchNorm_TF_PyTorch.ipynb`
+- **Youtube Video:** [Youtube Link]()
+- **Colab Notebook:** [Colab Link]()
+- **Coverage:** Weight Initialization (Xavier, He, LeCun), Batch Normalization, Layer Normalization (Part 1e-f)
+
+### 3) `03_Custom_Dropout_Regularization_TF_PyTorch.ipynb`
+- **Youtube Video:** [Youtube Link]()
+- **Colab Notebook:** [Colab Link]()
+- **Coverage:** Custom Dropout Variants, Custom Regularizers (Part 1g)
+
+### 4) `04_Callbacks_Tensorboard_KerasTuner.ipynb`
+- **Youtube Video:** [Youtube Link]()
+- **Colab Notebook:** [Colab Link]()
+- **Coverage:** Callbacks, TensorBoard, Keras Tuner Hyperparameter Tuning (Part 1h-i)
+
+### 5) `05_KerasCV_Data_Augmentation.ipynb`
+- **Youtube Video:** [Youtube Link]()
+- **Colab Notebook:** [Colab Link]()
+- **Coverage:** KerasCV Data Augmentation Techniques (Part 1j)
+
+### 6) `06_AugLy_MultiModal_Augmentation.ipynb`
+- **Youtube Video:** [Youtube Link]()
+- **Colab Notebook:** [Colab Link]()
+- **Coverage:** AugLy/nlpaug for Image, Video, Text, Audio Augmentation (Part 1k)
+
+### 7) `07_Advanced_Keras_Custom_Components.ipynb`
+- **Youtube Video:** [Youtube Link]()
+- **Colab Notebook:** [Colab Link]()
+- **Coverage:** Custom LR Scheduler, Loss, Activation, Layers, Metrics, Model (Part 2 i-ix)
+
+### 8) `08_Custom_Optimizer_Training_Loop.ipynb`
+- **Youtube Video:** [Youtube Link]()
+- **Colab Notebook:** [Colab Link]()
+- **Coverage:** Custom Optimizer, Custom Training Loop (Part 2 x-xi)
+
+### 9) `09_Weights_and_Biases_Integration.ipynb`
+- **Youtube Video:** [Youtube Link]()
+- **Colab Notebook:** [Colab Link]()
+- **Coverage:** Weights & Biases Experiment Tracking (Part 2 xii)
+
+### 10) `10_Advanced_PyTorch_Custom_Components.ipynb`
+- **Youtube Video:** [Youtube Link]()
+- **Colab Notebook:** [Colab Link]()
+- **Coverage:** PyTorch Custom Components (LR Scheduler, Loss, Layers, Optimizer, Training Loop)
+
+---
+
+## Assignment Topics
+
+| Part | Topics Covered |
+|------|----------------|
+| **Part 1** | Regularization, Initialization, Batch Normalization, Custom Dropout, Callbacks, TensorBoard, Keras Tuner, Data Augmentation (KerasCV, AugLy) |
+| **Part 2** | Custom LR Schedulers, Custom Loss Functions, Custom Activations, Custom Layers, Custom Metrics, Custom Models, Custom Optimizers, Custom Training Loops, Weights & Biases |
+
+---
+
+## References
+
+- [Hands-On ML Chapter 10 - Neural Nets with Keras](https://github.com/ageron/handson-ml3/blob/main/10_neural_nets_with_keras.ipynb)
+- [Hands-On ML Chapter 11 - Training Deep Neural Networks](https://github.com/ageron/handson-ml3/blob/main/11_training_deep_neural_networks.ipynb)
+- [Hands-On ML Chapter 12 - Custom Models and Training](https://github.com/ageron/handson-ml2/blob/master/12_custom_models_and_training_with_tensorflow.ipynb)
+- [KerasCV Documentation](https://keras.io/keras_cv)
+- [AugLy by Facebook Research](https://github.com/facebookresearch/AugLy)
+- [Awesome Data Augmentation](https://brunokrinski.github.io/awesome-data-augmentation/)
 
