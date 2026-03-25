@@ -44,7 +44,7 @@ Each notebook includes a corresponding walkthrough video.
 
 ### 8) `08_Custom_Optimizer_Training_Loop.ipynb`
 - **Youtube Video:** [Youtube Link]()
-- **Colab Notebook:** [Colab Link]()
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1m0uhwWibZQRoTdeafRenigFU1FEFaMFY?usp=sharing)
 - **Coverage:** Custom Optimizer, Custom Training Loop (Part 2 x-xi)
 
 ### 9) `09_Weights_and_Biases_Integration.ipynb`
