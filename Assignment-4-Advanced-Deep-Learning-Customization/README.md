@@ -39,7 +39,7 @@ Each notebook includes a corresponding walkthrough video.
 
 ### 7) `07_Advanced_Keras_Custom_Components.ipynb`
 - **Youtube Video:** [Youtube Link]()
-- **Colab Notebook:** [Colab Link]()
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1cr1pIJdLck4owoJ3UHk50wDktlvCrezi?usp=sharing)
 - **Coverage:** Custom LR Scheduler, Loss, Activation, Layers, Metrics, Model (Part 2 i-ix)
 
 ### 8) `08_Custom_Optimizer_Training_Loop.ipynb`
