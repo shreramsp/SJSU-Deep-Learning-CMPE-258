@@ -54,7 +54,7 @@ Each notebook includes a corresponding walkthrough video.
 
 ### 10) `10_Advanced_PyTorch_Custom_Components.ipynb`
 - **Youtube Video:** [Youtube Link]()
-- **Colab Notebook:** [Colab Link]()
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1OzHVBTFaaM0FleayBuWFO2EJUzewwagf?usp=sharing)
 - **Coverage:** PyTorch Custom Components (LR Scheduler, Loss, Layers, Optimizer, Training Loop)
 
 ---
