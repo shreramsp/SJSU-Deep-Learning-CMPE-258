@@ -14,12 +14,12 @@ Each notebook includes a corresponding walkthrough video.
 
 ### 2) `02_Initialization_BatchNorm_TF_PyTorch.ipynb`
 - **Youtube Video:** [Youtube Link]()
-- **Colab Notebook:** [Colab Link]()
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1gI7_M1Axf2QXpc8z1L2AW9iUUxWqnsmu?usp=sharing)
 - **Coverage:** Weight Initialization (Xavier, He, LeCun), Batch Normalization, Layer Normalization (Part 1e-f)
 
 ### 3) `03_Custom_Dropout_Regularization_TF_PyTorch.ipynb`
 - **Youtube Video:** [Youtube Link]()
-- **Colab Notebook:** [Colab Link]()
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1fyEKVRngIbPDzSb4-ZSV_MHIWglW3OXS?usp=sharing)
 - **Coverage:** Custom Dropout Variants, Custom Regularizers (Part 1g)
 
 ### 4) `04_Callbacks_Tensorboard_KerasTuner.ipynb`
