@@ -49,7 +49,7 @@ Each notebook includes a corresponding walkthrough video.
 
 ### 9) `09_Weights_and_Biases_Integration.ipynb`
 - **Youtube Video:** [Youtube Link]()
-- **Colab Notebook:** [Colab Link]()
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1qAFFLncXt0v-kiQMcKLGtwhNkYL8N6RI?usp=sharing)
 - **Coverage:** Weights & Biases Experiment Tracking (Part 2 xii)
 
 ### 10) `10_Advanced_PyTorch_Custom_Components.ipynb`
