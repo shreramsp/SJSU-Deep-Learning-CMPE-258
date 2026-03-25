@@ -9,12 +9,12 @@ Each notebook includes a corresponding walkthrough video.
 
 ### 1) `01_Regularization_Techniques_TF_PyTorch.ipynb`
 - **Youtube Video:** [Youtube Link]()
-- **Colab Notebook:** [Colab Link]()
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1gI7_M1Axf2QXpc8z1L2AW9iUUxWqnsmu?usp=sharing)
 - **Coverage:** L1/L2 Regularization, Dropout, Early Stopping, Monte Carlo Dropout (Part 1a-d)
 
 ### 2) `02_Initialization_BatchNorm_TF_PyTorch.ipynb`
 - **Youtube Video:** [Youtube Link]()
-- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1gI7_M1Axf2QXpc8z1L2AW9iUUxWqnsmu?usp=sharing)
+- **Colab Notebook:** [Colab Link]()
 - **Coverage:** Weight Initialization (Xavier, He, LeCun), Batch Normalization, Layer Normalization (Part 1e-f)
 
 ### 3) `03_Custom_Dropout_Regularization_TF_PyTorch.ipynb`
