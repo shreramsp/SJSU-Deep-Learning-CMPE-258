@@ -34,7 +34,7 @@ Each notebook includes a corresponding walkthrough video.
 
 ### 6) `06_AugLy_MultiModal_Augmentation.ipynb`
 - **Youtube Video:** [Youtube Link]()
-- **Colab Notebook:** [Colab Link]()
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1W62PvypgC810bHe-6Am4owqd_qXRxLNR?usp=sharing)
 - **Coverage:** AugLy/nlpaug for Image, Video, Text, Audio Augmentation (Part 1k)
 
 ### 7) `07_Advanced_Keras_Custom_Components.ipynb`
