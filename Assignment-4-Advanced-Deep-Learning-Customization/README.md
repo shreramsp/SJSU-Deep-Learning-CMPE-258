@@ -14,7 +14,7 @@ Each notebook includes a corresponding walkthrough video.
 
 ### 2) `02_Initialization_BatchNorm_TF_PyTorch.ipynb`
 - **Youtube Video:** [Youtube Link]()
-- **Colab Notebook:** [Colab Link]()
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1IMxm_2-7kb01LCBhSIux4pX6BJkmpKRq?usp=sharing)
 - **Coverage:** Weight Initialization (Xavier, He, LeCun), Batch Normalization, Layer Normalization (Part 1e-f)
 
 ### 3) `03_Custom_Dropout_Regularization_TF_PyTorch.ipynb`
@@ -24,12 +24,12 @@ Each notebook includes a corresponding walkthrough video.
 
 ### 4) `04_Callbacks_Tensorboard_KerasTuner.ipynb`
 - **Youtube Video:** [Youtube Link]()
-- **Colab Notebook:** [Colab Link]()
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1VKCpjzNhyElAlSn2uiRb8EX55QWbpPYR?usp=sharing)
 - **Coverage:** Callbacks, TensorBoard, Keras Tuner Hyperparameter Tuning (Part 1h-i)
 
 ### 5) `05_KerasCV_Data_Augmentation.ipynb`
 - **Youtube Video:** [Youtube Link]()
-- **Colab Notebook:** [Colab Link]()
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/15p0O74T6c7h1Jr3MdkN3HBmdMvHzhHF6?usp=sharing)
 - **Coverage:** KerasCV Data Augmentation Techniques (Part 1j)
 
 ### 6) `06_AugLy_MultiModal_Augmentation.ipynb`
