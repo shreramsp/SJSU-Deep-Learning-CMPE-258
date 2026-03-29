@@ -33,27 +33,27 @@ Each notebook includes a corresponding walkthrough video.
 - **Coverage:** KerasCV Data Augmentation Techniques (Part 1j)
 
 ### 6) `06_AugLy_MultiModal_Augmentation.ipynb`
-- **Youtube Video:** [Youtube Link]()
+- **Youtube Video:** [Youtube Link](https://youtu.be/fIONNE2FTvw)
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1W62PvypgC810bHe-6Am4owqd_qXRxLNR?usp=sharing)
 - **Coverage:** AugLy/nlpaug for Image, Video, Text, Audio Augmentation (Part 1k)
 
 ### 7) `07_Advanced_Keras_Custom_Components.ipynb`
-- **Youtube Video:** [Youtube Link]()
+- **Youtube Video:** [Youtube Link](https://youtu.be/Jbxh5RXA6Aw)
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1cr1pIJdLck4owoJ3UHk50wDktlvCrezi?usp=sharing)
 - **Coverage:** Custom LR Scheduler, Loss, Activation, Layers, Metrics, Model (Part 2 i-ix)
 
 ### 8) `08_Custom_Optimizer_Training_Loop.ipynb`
-- **Youtube Video:** [Youtube Link]()
+- **Youtube Video:** [Youtube Link](https://youtu.be/ahtFL1E56YI)
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1m0uhwWibZQRoTdeafRenigFU1FEFaMFY?usp=sharing)
 - **Coverage:** Custom Optimizer, Custom Training Loop (Part 2 x-xi)
 
 ### 9) `09_Weights_and_Biases_Integration.ipynb`
-- **Youtube Video:** [Youtube Link]()
+- **Youtube Video:** [Youtube Link](https://youtu.be/6nSv32BHwTo)
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1qAFFLncXt0v-kiQMcKLGtwhNkYL8N6RI?usp=sharing)
 - **Coverage:** Weights & Biases Experiment Tracking (Part 2 xii)
 
 ### 10) `10_Advanced_PyTorch_Custom_Components.ipynb`
-- **Youtube Video:** [Youtube Link]()
+- **Youtube Video:** [Youtube Link](https://youtu.be/W88ql1KUKtc)
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1OzHVBTFaaM0FleayBuWFO2EJUzewwagf?usp=sharing)
 - **Coverage:** PyTorch Custom Components (LR Scheduler, Loss, Layers, Optimizer, Training Loop)
 
