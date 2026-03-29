@@ -8,27 +8,27 @@ Each notebook includes a corresponding walkthrough video.
 ## Notebooks
 
 ### 1) `01_Regularization_Techniques_TF_PyTorch.ipynb`
-- **Youtube Video:** [Youtube Link]()
+- **Youtube Video:** [Youtube Link](https://youtu.be/IKcQn-Z8F6w)
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1gI7_M1Axf2QXpc8z1L2AW9iUUxWqnsmu?usp=sharing)
 - **Coverage:** L1/L2 Regularization, Dropout, Early Stopping, Monte Carlo Dropout (Part 1a-d)
 
 ### 2) `02_Initialization_BatchNorm_TF_PyTorch.ipynb`
-- **Youtube Video:** [Youtube Link]()
+- **Youtube Video:** [Youtube Link](https://youtu.be/gMnEcaQS-kE)
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1IMxm_2-7kb01LCBhSIux4pX6BJkmpKRq?usp=sharing)
 - **Coverage:** Weight Initialization (Xavier, He, LeCun), Batch Normalization, Layer Normalization (Part 1e-f)
 
 ### 3) `03_Custom_Dropout_Regularization_TF_PyTorch.ipynb`
-- **Youtube Video:** [Youtube Link]()
+- **Youtube Video:** [Youtube Link](https://youtu.be/oicj3cf-FSs)
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1fyEKVRngIbPDzSb4-ZSV_MHIWglW3OXS?usp=sharing)
 - **Coverage:** Custom Dropout Variants, Custom Regularizers (Part 1g)
 
 ### 4) `04_Callbacks_Tensorboard_KerasTuner.ipynb`
-- **Youtube Video:** [Youtube Link]()
+- **Youtube Video:** [Youtube Link](https://youtu.be/N1zx-3kFEgg)
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1VKCpjzNhyElAlSn2uiRb8EX55QWbpPYR?usp=sharing)
 - **Coverage:** Callbacks, TensorBoard, Keras Tuner Hyperparameter Tuning (Part 1h-i)
 
 ### 5) `05_KerasCV_Data_Augmentation.ipynb`
-- **Youtube Video:** [Youtube Link]()
+- **Youtube Video:** [Youtube Link](https://youtu.be/QUivZOgqb2w)
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/15p0O74T6c7h1Jr3MdkN3HBmdMvHzhHF6?usp=sharing)
 - **Coverage:** KerasCV Data Augmentation Techniques (Part 1j)
 
