@@ -1,1 +1,39 @@
+# CMPE 258 — Assignment 5: Deep Learning Training Design Space
 
+This repository contains Google Colab notebooks for **CMPE 258 — Assignment 5**.  
+Each notebook was copied to Colab, executed with outputs, and archived in this GitHub repository.  
+A corresponding walkthrough video is included for each notebook, explaining the code block by block and discussing the outputs.
+
+---
+
+## Notebooks
+
+### 1) `final_activation_functions_tutorial.ipynb`
+- **Youtube Video:** [Youtube Link](PASTE_YOUTUBE_LINK_HERE)
+- **Colab Notebook:** [Colab Link](PASTE_COLAB_LINK_HERE)
+- **Coverage:** Understanding activation functions, their role in neural networks, implementation details, and output analysis
+
+### 2) `final_cnn_fundamentals_tutorial.ipynb`
+- **Youtube Video:** [Youtube Link](PASTE_YOUTUBE_LINK_HERE)
+- **Colab Notebook:** [Colab Link](PASTE_COLAB_LINK_HERE)
+- **Coverage:** CNN basics including convolutions, filters, pooling layers, and feature map generation
+
+### 3) `final_hyperparameter_tuning_tutorial.ipynb`
+- **Youtube Video:** [Youtube Link](PASTE_YOUTUBE_LINK_HERE)
+- **Colab Notebook:** [Colab Link](PASTE_COLAB_LINK_HERE)
+- **Coverage:** Hyperparameter tuning methods, parameter search, training improvements, and experiment interpretation
+
+### 4) `final_important_classification_metrics_tutorial.ipynb`
+- **Youtube Video:** [Youtube Link](PASTE_YOUTUBE_LINK_HERE)
+- **Colab Notebook:** [Colab Link](PASTE_COLAB_LINK_HERE)
+- **Coverage:** Classification evaluation metrics including confusion matrix, precision, recall, F1-score, and model performance comparison
+
+### 5) `final_modern_cnn_architectures_tutorial.ipynb`
+- **Youtube Video:** [Youtube Link](PASTE_YOUTUBE_LINK_HERE)
+- **Colab Notebook:** [Colab Link](PASTE_COLAB_LINK_HERE)
+- **Coverage:** Exploration of modern CNN architectures and how architecture choices improve deep learning performance
+
+### 6) `final_optimizers_deep_learning_tutorial.ipynb`
+- **Youtube Video:** [Youtube Link](PASTE_YOUTUBE_LINK_HERE)
+- **Colab Notebook:** [Colab Link](PASTE_COLAB_LINK_HERE)
+- **Coverage:** Optimizers in deep learning such as SGD, Momentum, RMSProp, Adam, and their impact on training
