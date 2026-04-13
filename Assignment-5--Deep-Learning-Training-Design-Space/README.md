@@ -10,30 +10,30 @@ A corresponding walkthrough video is included for each notebook, explaining the 
 
 ### 1) `final_activation_functions_tutorial.ipynb`
 - **Youtube Video:** [Youtube Link](PASTE_YOUTUBE_LINK_HERE)
-- **Colab Notebook:** [Colab Link](PASTE_COLAB_LINK_HERE)
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1oUBSk5A4_hHyUeCp5rSOjdF7lXF4Isux?usp=sharing)
 - **Coverage:** Understanding activation functions, their role in neural networks, implementation details, and output analysis
 
 ### 2) `final_cnn_fundamentals_tutorial.ipynb`
 - **Youtube Video:** [Youtube Link](PASTE_YOUTUBE_LINK_HERE)
-- **Colab Notebook:** [Colab Link](PASTE_COLAB_LINK_HERE)
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/12HSHPWX6ilUtfB-ya2EDyu1vhYUgkAD7?usp=sharing)
 - **Coverage:** CNN basics including convolutions, filters, pooling layers, and feature map generation
 
 ### 3) `final_hyperparameter_tuning_tutorial.ipynb`
 - **Youtube Video:** [Youtube Link](PASTE_YOUTUBE_LINK_HERE)
-- **Colab Notebook:** [Colab Link](PASTE_COLAB_LINK_HERE)
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1dc_jSnU0hWtzX9_sG1UnIGJhgsptc1oD?usp=sharing)
 - **Coverage:** Hyperparameter tuning methods, parameter search, training improvements, and experiment interpretation
 
 ### 4) `final_important_classification_metrics_tutorial.ipynb`
 - **Youtube Video:** [Youtube Link](PASTE_YOUTUBE_LINK_HERE)
-- **Colab Notebook:** [Colab Link](PASTE_COLAB_LINK_HERE)
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1-fI529h9D92tcBnbIVBGAyJ-T7ZnyTzi?usp=sharing)
 - **Coverage:** Classification evaluation metrics including confusion matrix, precision, recall, F1-score, and model performance comparison
 
 ### 5) `final_modern_cnn_architectures_tutorial.ipynb`
 - **Youtube Video:** [Youtube Link](PASTE_YOUTUBE_LINK_HERE)
-- **Colab Notebook:** [Colab Link](PASTE_COLAB_LINK_HERE)
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1f280J5VNbzu0G8cHdrnywwBqIoRHm7UM?usp=sharing)
 - **Coverage:** Exploration of modern CNN architectures and how architecture choices improve deep learning performance
 
 ### 6) `final_optimizers_deep_learning_tutorial.ipynb`
 - **Youtube Video:** [Youtube Link](PASTE_YOUTUBE_LINK_HERE)
-- **Colab Notebook:** [Colab Link](PASTE_COLAB_LINK_HERE)
+- **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1F4Zx8uLwbshG7Qol4ltfQrZJm4zeZVqy?usp=sharing)
 - **Coverage:** Optimizers in deep learning such as SGD, Momentum, RMSProp, Adam, and their impact on training
