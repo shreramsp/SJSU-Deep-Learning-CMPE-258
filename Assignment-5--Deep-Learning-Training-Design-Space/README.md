@@ -37,3 +37,10 @@ A corresponding walkthrough video is included for each notebook, explaining the 
 - **Youtube Video:** [Youtube Link](https://youtu.be/ucK4oDWLfuo)
 - **Colab Notebook:** [Colab Link](https://colab.research.google.com/drive/1F4Zx8uLwbshG7Qol4ltfQrZJm4zeZVqy?usp=sharing)
 - **Coverage:** Optimizers in deep learning such as SGD, Momentum, RMSProp, Adam, and their impact on training
+
+---
+
+## Notes
+
+All notebooks were executed in Google Colab and saved with outputs for review.  
+The walkthrough videos explain the implementation steps, key concepts, and generated outputs for each notebook.
